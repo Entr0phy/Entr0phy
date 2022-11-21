@@ -1,11 +1,11 @@
 ## Entr0phy
 
 ## Introduction
-- I am a undergraduate at University of Wollongong pursuing a bachelor in Computer Science (Big Data)
-- I am passionate about anything tech-related
-- I enjoy learning new technologies and framework in my freetime
+- Undergraduate at University of Wollongong pursuing a bachelor in Computer Science (Big Data)
+- Passionate about anything tech-related
+- Enjoys learning new technologies and framework in my freetime
 - As an aspiring web developer myself, i am always keen on learning and improving my own domain knowledge on web technology
-- I enjoy doing leetcode in my freetime
+- Does leetcode in my freetime 
 
 ## Languages and frameworks 
 - Java
