@@ -1,9 +1,6 @@
 ## Entr0phy
 
 ## Introduction
-
-- My name is Lim Pei Ming
-- I am a Singapore Citizen
 - I am a undergraduate at University of Wollongong pursuing a bachelor in Computer Science (Big Data)
 - I am passionate about anything tech-related
 - I enjoy learning new technologies and framework in my freetime
