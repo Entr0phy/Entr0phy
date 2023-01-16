@@ -9,6 +9,7 @@
 
 ## Languages and frameworks 
 - Java
+- C++
 - CSS3 
 - HTML5
 - Javascript ES6
@@ -17,7 +18,7 @@
 - SQL
 - MongoDB
 - Data Structure & Algorithms
-- MERN stack (Still picking up Express)
+- MERN stack (Still picking up Node)
 
 **Thank you for taking your time to read about my profile.**
 
