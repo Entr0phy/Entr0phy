@@ -18,7 +18,8 @@
 - SQL
 - MongoDB
 - Data Structure & Algorithms
-- MERN stack (Still picking up Node)
+- Node
+- Express
 
 **Thank you for taking your time to read about my profile.**
 
