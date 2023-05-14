@@ -20,6 +20,7 @@
 - Data Structure & Algorithms
 - Node
 - Express
+- NextJS
 
 **Thank you for taking your time to read about my profile.**
 
