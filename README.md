@@ -21,6 +21,9 @@
 - Node
 - Express
 - NextJS
+- Rust
+- Spark
+- Hadoop/Hive
 
 **Thank you for taking your time to read about my profile.**
 
