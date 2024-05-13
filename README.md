@@ -1,11 +1,9 @@
 ## Entr0phy
 
 ## Introduction
-- Undergraduate at University of Wollongong pursuing a bachelor in Computer Science (Big Data)
+- Aspiring Software Engineer
 - Passionate about anything tech-related
 - Enjoys learning new technologies and framework in my freetime
-- As an aspiring web developer myself, i am always keen on learning and improving my own domain knowledge on web technology
-- Does leetcode in my freetime 
 
 ## Languages and frameworks 
 - Java
@@ -13,6 +11,7 @@
 - CSS3 
 - HTML5
 - Javascript ES6
+- Typescript
 - React
 - Python
 - SQL
@@ -24,6 +23,7 @@
 - Rust
 - Spark
 - Hadoop/Hive
+  
 
 **Thank you for taking your time to read about my profile.**
 
